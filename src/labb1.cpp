@@ -1,5 +1,3 @@
-//Fredrik Haupt caha6864
-
 #include <iostream>
 #include <vector>
 #include <thread>
